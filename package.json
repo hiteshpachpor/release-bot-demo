@@ -1,7 +1,20 @@
 {
+  "name": "release-bot-demo",
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
-    "husky": "^8.0.1"
+    "husky": "^8.0.1",
+    "semantic-release": "^19.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "version": "0.0.0-development",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiteshpachpor/release-bot-demo.git"
   }
 }

@@ -9,3 +9,4 @@
 ## More resources
 
 1. [Husky](https://typicode.github.io/husky/#/?id=manual) - modern native git hooks made easy
+2. [GitHub Actions](https://github.com/features/actions) - automate your workflow
