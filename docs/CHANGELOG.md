@@ -1,3 +1,16 @@
+# [1.4.0](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.3.0...v1.4.0) (2022-07-01)
+
+
+### Bug Fixes
+
+* **homepage:** uppercasing ([8c59c96](https://github.com/hiteshpachpor/release-bot-demo/commit/8c59c9608d2249078e042468283cb8dfd3434371))
+
+
+### Features
+
+* **index:** added a link to homepage ([b401d30](https://github.com/hiteshpachpor/release-bot-demo/commit/b401d30b43e6cb6b5131062545ed606e40cf999d))
+* new home page ([6b6990d](https://github.com/hiteshpachpor/release-bot-demo/commit/6b6990dfe5ec785bd38c45479e440e4acdf619b8))
+
 # [1.3.0](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.3...v1.3.0) (2022-07-01)
 
 
