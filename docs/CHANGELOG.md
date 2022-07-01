@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.2...v1.2.3) (2022-07-01)
+
+
+### Bug Fixes
+
+* remove Slack plugin ([796102b](https://github.com/hiteshpachpor/release-bot-demo/commit/796102b54f9e187c8ea25ecdbc58b08b21e27134))
+
 ## [1.2.2](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.1...v1.2.2) (2022-07-01)
 
 
