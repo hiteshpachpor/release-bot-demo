@@ -14,26 +14,6 @@
       {
         "assets": ["docs/CHANGELOG.md"]
       }
-    ],
-    [
-      "semantic-release-slack-bot",
-      {
-        "notifyOnSuccess": false,
-        "notifyOnFail": false,
-        "slackToken": "token",
-        "slackChannel": "playground",
-        "branchesConfig": [
-          {
-            "pattern": "lts/*",
-            "notifyOnFail": true
-          },
-          {
-            "pattern": "master1",
-            "notifyOnSuccess": true,
-            "notifyOnFail": true
-          }
-        ]
-      }
     ]
   ]
 }
