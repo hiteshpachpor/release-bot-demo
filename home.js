@@ -1,1 +1,1 @@
-console.log('New Home Page bro');
+console.log('New Home Page');
