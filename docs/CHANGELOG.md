@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.4.0...v1.4.1) (2022-07-01)
+
+
+### Bug Fixes
+
+* raif bro ([#8](https://github.com/hiteshpachpor/release-bot-demo/issues/8)) ([bb1bfa0](https://github.com/hiteshpachpor/release-bot-demo/commit/bb1bfa0035957f6fa35a5f110da26a47c522b4ae)), closes [#7](https://github.com/hiteshpachpor/release-bot-demo/issues/7)
+
 # [1.4.0](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.3.0...v1.4.0) (2022-07-01)
 
 
