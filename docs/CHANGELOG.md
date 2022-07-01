@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.3...v1.3.0) (2022-07-01)
+
+
+### Bug Fixes
+
+* updated something ([db163da](https://github.com/hiteshpachpor/release-bot-demo/commit/db163da6630c2442559518310cd420a564656b3e))
+
+
+### Features
+
+* added a new feature ([4b4e68e](https://github.com/hiteshpachpor/release-bot-demo/commit/4b4e68ed60a3ed60013727989e35aa4af6169b7e))
+
 ## [1.2.3](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.2...v1.2.3) (2022-07-01)
 
 
