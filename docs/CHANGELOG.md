@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.1...v1.2.2) (2022-07-01)
+
+
+### Bug Fixes
+
+* updated slack webhook url ([a524aa4](https://github.com/hiteshpachpor/release-bot-demo/commit/a524aa4f0f2a9fda47f743c3daa7340fd1b0234c))
+
 ## [1.2.1](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.0...v1.2.1) (2022-07-01)
 
 
