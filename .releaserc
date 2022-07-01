@@ -14,25 +14,6 @@
       {
         "assets": ["docs/CHANGELOG.md"]
       }
-    ],
-    [
-      "semantic-release-slack-bot",
-      {
-        "notifyOnSuccess": true,
-        "notifyOnFail": true,
-        "slackWebhook": "https://hooks.slack.com/services/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",
-        "branchesConfig": [
-          {
-            "pattern": "lts/*",
-            "notifyOnFail": true
-          },
-          {
-            "pattern": "master1",
-            "notifyOnSuccess": true,
-            "notifyOnFail": true
-          }
-        ]
-      }
     ]
   ]
 }
