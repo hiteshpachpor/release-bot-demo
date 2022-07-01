@@ -18,10 +18,9 @@
     [
       "semantic-release-slack-bot",
       {
-        "notifyOnSuccess": false,
-        "notifyOnFail": false,
-        "slackToken": "token",
-        "slackChannel": "playground",
+        "notifyOnSuccess": true,
+        "notifyOnFail": true,
+        "slackWebhook": "https://hooks.slack.com/services/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",
         "branchesConfig": [
           {
             "pattern": "lts/*",
