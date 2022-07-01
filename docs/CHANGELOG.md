@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.2.0...v1.2.1) (2022-07-01)
+
+
+### Bug Fixes
+
+* publish to slack ([9283bb1](https://github.com/hiteshpachpor/release-bot-demo/commit/9283bb1781ced04b98914270e78d386d8caf537b))
+
 # [1.2.0](https://github.com/hiteshpachpor/release-bot-demo/compare/v1.1.0...v1.2.0) (2022-07-01)
 
 
